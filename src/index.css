@@ -1,0 +1,98 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #23252c;
+  font-family: sans-serif;
+}
+.container {
+  width: 320px;
+  margin: 0 auto;
+  background-color: #1a1b21;
+}
+/* Profile Section */
+.profile {
+  background-color: #1a1b21;
+  text-align: center;
+  margin: 0 auto;
+}
+.user-name {
+  color: #fff;
+  font-size: 25px;
+  margin-top: 21px;
+}
+.user-job {
+  color: #f3bf99;
+  font-size: 13px;
+  margin-top: 6px;
+}
+.user-website {
+  font-size: 11px;
+  color: #f5f5f5;
+  margin-top: 9px;
+}
+.social-links {
+  display: flex;
+  justify-content: center;
+  gap: 17px;
+  margin-top: 15px;
+}
+.social-links a {
+  /* padding: 9px 11px; */
+  width: 115px;
+  height: 34px;
+  border-radius: 6px;
+  font-size: 14px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  text-decoration: none;
+  font-weight: 600;
+  margin-bottom: ;
+}
+.social-links ion-icon {
+  font-size: 18px;
+}
+.Email {
+  background-color: #fff;
+  color: #374151;
+}
+.linkedIn {
+  background-color: #5093e2;
+  color: #fff;
+}
+/* Main Content */
+.main-content {
+  margin: 33px;
+  background-color: #1a1b21;
+}
+.main-content h2 {
+  font-size: 16px;
+  font-weight: 700;
+  color: #f5f5f5;
+}
+.main-content p {
+  font-size: 10px;
+  color: #dcdcdc;
+  margin-bottom: 20px;
+  margin-top: 5px;
+  line-height: 15px;
+}
+/* Footer */
+footer {
+  height: 64px;
+  background-color: #161619;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  align-items: center;
+  border-radius: 0 0 10px 10px;
+}
+footer ion-icon {
+  color: #918e9b;
+  font-size: 25px;
+}

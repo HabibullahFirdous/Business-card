@@ -19,6 +19,10 @@ body {
   text-align: center;
   margin: 0 auto;
 }
+.profile img{
+  width:317px;
+  height:317px;
+}
 .user-name {
   color: #fff;
   font-size: 25px;

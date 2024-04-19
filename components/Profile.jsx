@@ -6,7 +6,7 @@ export default function Profile() {
   return (
     <>
       <div className="profile">
-        <img src="../imgs/profile-pic.png" className="profile-pic" />
+        <img src="https://unsplash.com/photos/person-in-blue-denim-jeans-and-black-jacket-sitting-on-rock-formation-near-body-of-water-PUKQhn0t8fg" />
         <div className="profile-info">
           <h1 className="user-name"> Laura Smith</h1>
           <p className="user-job">Frontend Developer</p>

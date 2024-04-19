@@ -6,7 +6,7 @@ export default function Profile() {
   return (
     <>
       <div className="profile">
-        <img src="https://source.unsplash.com/WLxQvbMyfas" />
+        <img src="../imgs/profile-pic.png" />
         <div className="profile-info">
           <h1 className="user-name"> Laura Smith</h1>
           <p className="user-job">Frontend Developer</p>
